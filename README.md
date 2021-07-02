@@ -1,7 +1,12 @@
-## Olá tudo bem?
-## Me chamo Wuanderson
-## = tag
----
+
+
+# Hi, I'm Wuanderson! 👋
+
+### About me
+I'm a Automation Developer, Test Automation Developer and Backend developer
+
+👨🏼‍🏫 - It's are technical courses on many technologies, such as Java, Python, Kotlin, Flutter, Docker, Git and more.
+
 
 <div>
 <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=wuandersondias&show_icons=true&theme=tokyonight">
