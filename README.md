@@ -29,4 +29,5 @@ I'm a Automation Developer, Test Automation Developer and Backend developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" align="center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" align="center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" align="center" heigth="50" width="60">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" align="center" heigth="50" width="60">
 </div>
